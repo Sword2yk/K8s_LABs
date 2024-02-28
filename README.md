@@ -16,11 +16,9 @@
 
 ### Push Docker image to Docker hub
 tag
-```docker tag k8s-flask-app sword2yk/k8s-flask-app:v1.0```
+```docker tag k8s-flask-app sword2yk/k8s-flask-app:v1.0```<br>
 Docker login
 Enter your docker hub login details
-
-
 
 ## Minikube
 [Minikube](https://minikube.sigs.k8s.io/docs/start/)
