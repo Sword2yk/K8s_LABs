@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: k8s-flask-app
-        image: k8s-flask-app:latest
+        image: k8s-flask-app
         imagePullPolicy: Never
         ports:
         - containerPort: 5000
